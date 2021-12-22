@@ -1,0 +1,2 @@
+prototype = es basicamente la clase por defecto de cada objecto, por ejemplo un arreglo es de la clase Array, y este seria su prototipo
+Constructors = son inicializaciones que se le dan a una clase, es decir, los primeros valores de propiedades o métodos que tomara la clase
