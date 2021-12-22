@@ -1,0 +1,5 @@
+Objetos = son basicamente su nombre 'objetos' estos tienen propiedades, que en js se llaman claves y tendran un resultado que se llamará valor
+Propiedades = las propiedades son cosas que pertenecen al objeto como por ejemplo una persona es un objeto y su propiedad nombre sería 'Juan'
+Métodos = son funciones de un objeto es decir, la persona que es objeto tendría un metodo caminar, que lo lleva de un lugar a otro
+Bucle for…in = es una iteracion por las claves del objeto
+Notación de puntos vs notación de corchetes = No existe mucha diferencia dado que ambas notaciones son validas para llamar a un metodo del objeto, sin embargo generalmente se usan los [], y existen situaciones donde no se puede llamar la notacion de puntos, por ejemplo cuando la clave es variable
