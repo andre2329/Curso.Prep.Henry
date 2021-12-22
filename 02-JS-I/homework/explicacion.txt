@@ -1,0 +1,5 @@
+Variables = La variable es como un recipiente, este puede tener comida y tendrá muchos platos variables con diferentes sabores e ingredientes que podrás cambiar a tu gusto.
+Strings = Un string es como un tren, tiene muchos vagones, para javascript los vagones serían letras o caracteres y el string sería el grupo de estos, per oasociados en un orden.
+Funciones (argumentos, return) = Una función es como una máquina que hace algo, por ejemplo si una maquina de jugo de naranja, la función es la maquina, los argumentos son las naranjas y el 'return' sería el jugo ya exprimido.
+Declaraciones (if) = Las declaraciones son condicionales, según lo que que se declare se realizará o no una acción, podríamos poner un ejemplo en casa, tus padres te dicen, si haces todas tus tareas podrás salir con tus amigos, esa condicion sería la declaración si se realizará o no que te juntes con tus amigos.
+Valores booleanos (true, false) = Un valor booleano puede ser como un foco, el valor true es un foco encendido, el valor false es el foco apagado
